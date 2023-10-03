@@ -1,0 +1,29 @@
+{
+  "docId": "documentmanager-config",
+  "title": "Document Manager Configuration Guide",
+  "description": "Guide to help install and setup Document Manager",
+  "publicSource": "--publicSource--",
+  "productFamily": "hdocs",
+  "version": "0.0.1",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "documentmanager-config/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
