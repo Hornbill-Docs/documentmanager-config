@@ -2,9 +2,9 @@
   "docId": "documentmanager-config",
   "title": "Document Manager Configuration Guide",
   "description": "Guide to help install and setup Document Manager",
-  "publicSource": "--publicSource--",
-  "productFamily": "hdocs",
-  "version": "0.0.1",
+  "publicSource": "https://github.com/Hornbill-Docs/documentmanager-config.git",
+  "productFamily": "com.hornbill.boardmanager",
+  "version": "0.0.2",
   "audience": [
     "public"
   ],
