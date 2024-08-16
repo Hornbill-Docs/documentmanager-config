@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Document Manager",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-config.git",
   "productFamily": "com.hornbill.docmanager",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "audience": [
     "public"
   ],
@@ -20,6 +20,32 @@
           {
             "text": "Welcome",
             "link": "documentmanager-config/index"
+          }
+        ]
+      },
+      {
+        "text": "Setup",
+        "items": [
+          {
+            "text": "Users",
+            "link": "documentmanager-config/setup/users"
+          },
+          {
+            "text": "Roles",
+            "link": "documentmanager-config/setup/roles"
+          },
+          {
+            "text": "Simple Lists",
+            "link": "documentmanager-config/setup/simple-lists"
+          }
+        ]
+      },
+      {
+        "text": "Customize",
+        "items":[
+          {
+            "text": "Workflows",
+            "link": "documentmanager-config/customize/workflow"
           }
         ]
       }
