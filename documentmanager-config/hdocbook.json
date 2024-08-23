@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Document Manager",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-config.git",
   "productFamily": "com.hornbill.docmanager",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "audience": [
     "public"
   ],

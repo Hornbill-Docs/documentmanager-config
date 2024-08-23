@@ -1,8 +1,4 @@
 # Users
----
-layout: article-toc
----
-# Users
 The list of users helps you view and manage who is using a subscription for Document Manager.  Users can be added and removed from this list to provide or take away access.
 
 ## Assigning Users
