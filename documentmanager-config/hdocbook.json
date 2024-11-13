@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Document Manager",
   "publicSource": "https://github.com/Hornbill-Docs/documentmanager-config.git",
   "productFamily": "com.hornbill.docmanager",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "audience": [
     "public"
   ],
@@ -42,7 +42,7 @@
       },
       {
         "text": "Customize",
-        "items":[
+        "items": [
           {
             "text": "Workflows",
             "link": "documentmanager-config/customize/workflow"
@@ -51,7 +51,7 @@
       },
       {
         "text": "Advanced Tools and Settings",
-        "items":[
+        "items": [
           {
             "text": "Application Settings",
             "link": "documentmanager-config/application-settings"
